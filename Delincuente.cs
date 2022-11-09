@@ -16,7 +16,7 @@ struct Delincuente
     public void mostrarDelincuente()
     {
         Console.WriteLine("Hola soy {0}",x);
-        Console.WriteLine("Y estoy aqui por un robito de {0}",y);
+        Console.WriteLine("Y estoy aqui interno por un robito de {0}",y);
     }
 }
 
